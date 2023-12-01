@@ -1,4 +1,4 @@
-# Advent of code 2023 code
+# Advent of code 2023
 This code is done purely to learn new stuff and have fun.
 Errors are due to too much or too little caffeine.
 ***
